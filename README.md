@@ -8,3 +8,7 @@ guarantee that all values returned are from the same block (like an atomic read)
 and returning the block number the values are from (giving them important
 context so that results from old blocks can be ignored if they're from an
 out-of-date node).
+
+## JSON
+
+[https://github.com/multicall-list/multicall/blob/main/public/multicall.json#L71](https://github.com/multicall-list/multicall/blob/main/public/multicall.json)
