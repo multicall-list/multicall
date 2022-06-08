@@ -11,4 +11,4 @@ out-of-date node).
 
 ## JSON
 
-[https://github.com/multicall-list/multicall/blob/main/public/multicall.json#L71](https://github.com/multicall-list/multicall/blob/main/public/multicall.json)
+[https://github.com/multicall-list/multicall/blob/main/public/multicall.json](https://github.com/multicall-list/multicall/blob/main/public/multicall.json)
