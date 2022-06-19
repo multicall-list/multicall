@@ -79,6 +79,10 @@
     "address": "0x1a2AFb22B8A90A77a93e80ceA61f89D04e05b796",
     "name": "metis mainnet"
   },
+  "42261" : {
+    "address": "0x536aB104c3139E55934b9cF92f1C205E152d3338",
+    "name": "oasis emerald testnet"
+  }
   "42262" : {
     "address": "0xA75e40527A55a9eb0C08896C993B0CAdd5cDc18F",
     "name": "oasis emerald mainnet"
